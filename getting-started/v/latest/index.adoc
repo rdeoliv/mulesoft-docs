@@ -1,16 +1,24 @@
 == Getting Started with Anypoint Platform
 
-Welcome to the MuleSoft product documentation site, your resource for instructional and reference material for MuleSoft products. This section helps you ramp up to connect digital assets, APIs and design durable applications on link:/mule-fundamentals/v/3.8/[Mule Runtime], MuleSoft's flagship integration platform.
-
-== Develop Mule Applications
-
-* link:/anypoint-studio/v/6/index[Anypoint Studio] - You can develop Mule Applications using our classic IDE. See the link:/anypoint-studio/v/6/setting-up-your-development-environment[Studio hardware and software requirements] to start developing with Mule.
-* link:/mule-user-guide/v/3.8/dataweave[DataWeave] - Weave data transformations into your Mule applications to quickly transform and map Mule message payloads to other data structures.
-* link:/mule-user-guide/v/3.8/anypoint-connectors[Anypoint Connectors] - MuleSoft and partner-supported connectors work out of the box to help you hook into SaaS applications like ServiceNow and Salesforce, or generic data structures like databases, files and object stores.
+Welcome to the Getting Started section, your resource for introductory instructional material for MuleSoft products. This section helps you ramp up to connect digital assets, APIs and design durable applications that deploy to the link:/mule-fundamentals/v/3.8/[Mule Runtime], MuleSoft's flagship integration platform.
 
 == Design and Manage APIs
 
-* link:/api-manager/[API Manager] and link:api-manager/designing-your-api[API Designer] - design and manage new or legacy APIs. Publish interactive documentation about them on an link:/api-manager/tutorial-create-an-api-portal[API Portal].
+* link:/getting-started/design-an-api[How to Design an API]
+* link:/getting-started/implement-and-test[How to Implement and Test an API].
+* link:/getting-started/sync-api-apisync[Sync an API to the Platform]
+
+See link:/api-manager/[API Manager] and link:api-manager/designing-your-api[API Designer] to design and manage new or legacy APIs. Publish interactive documentation about them on an link:/api-manager/tutorial-create-an-api-portal[API Portal].
+
+== Develop Mule Applications
+
+* link:/getting-started/build-a-hello-world-application[Build a Hello World Mule Application in] link:/anypoint-studio/v/6/index[Anypoint Studio] - use the Studio IDE to develop Mule Applications.
+
+See the link:/anypoint-studio/v/6/setting-up-your-development-environment[Studio hardware and software requirements] to start developing with Mule.
+* link:/mule-user-guide/v/3.8/dataweave[DataWeave] - Weave data transformations into your Mule applications to quickly transform and map Mule message payloads to other data structures.
+* link:/mule-user-guide/v/3.8/anypoint-connectors[Anypoint Connectors] - MuleSoft and partner-supported connectors work out of the box to help you hook into SaaS applications like ServiceNow and Salesforce, or generic data structures like databases, files and object stores.
+* link:/getting-started/anypoint-exchange[Anypoint Exchange]
+
 
 == Deploy and Manage Mule Applications
 
