@@ -6,15 +6,13 @@ Welcome to the Getting Started section, your resource for introductory instructi
 
 * link:/getting-started/design-an-api[How to Design an API]
 * link:/getting-started/implement-and-test[How to Implement and Test an API].
-* link:/getting-started/sync-api-apisync[Sync an API to the Platform]
+* link:/getting-started/sync-api-apisync[How to Sync an API to the Platform]
 
-See link:/api-manager/[API Manager] and link:api-manager/designing-your-api[API Designer] to design and manage new or legacy APIs. Publish interactive documentation about them on an link:/api-manager/tutorial-create-an-api-portal[API Portal].
+Go to the link:/api-manager/[API Manager] and link:api-manager/designing-your-api[API Designer] product documentation to learn to design and manage new or legacy APIs. Publish interactive documentation about your APIs on an link:/api-manager/tutorial-create-an-api-portal[API Portal].
 
 == Develop Mule Applications
 
-* link:/getting-started/build-a-hello-world-application[Build a Hello World Mule Application in] link:/anypoint-studio/v/6/index[Anypoint Studio] - use the Studio IDE to develop Mule Applications.
-
-See the link:/anypoint-studio/v/6/setting-up-your-development-environment[Studio hardware and software requirements] to start developing with Mule.
+* link:/getting-started/build-a-hello-world-application[Build a Hello World Mule Application] using link:/anypoint-studio/v/6/index[Anypoint Studio]. Install the link:/anypoint-studio/v/6/setting-up-your-development-environment[Studio hardware and software requirements] to start developing with Mule.
 * link:/mule-user-guide/v/3.8/dataweave[DataWeave] - Weave data transformations into your Mule applications to quickly transform and map Mule message payloads to other data structures.
 * link:/mule-user-guide/v/3.8/anypoint-connectors[Anypoint Connectors] - MuleSoft and partner-supported connectors work out of the box to help you hook into SaaS applications like ServiceNow and Salesforce, or generic data structures like databases, files and object stores.
 * link:/getting-started/anypoint-exchange[Anypoint Exchange]
