@@ -3,7 +3,6 @@
 :toc: macro
 :toc-title:
 :toclevels: 2
-:imagesdir: getting-started/_images2
 
 
 
