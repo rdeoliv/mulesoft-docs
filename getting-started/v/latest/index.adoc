@@ -1,6 +1,6 @@
 == Getting Started with Anypoint Platform
 
-Welcome to the Getting Started section, your resource for introductory instructional material for MuleSoft products. This section helps you ramp up to connect digital assets, APIs and design durable applications that deploy to the link:/mule-fundamentals/v/3.8/[Mule Runtime], MuleSoft's flagship integration platform.
+Welcome to the Getting Started section, your resource for introductory material for MuleSoft products. This section helps you ramp up to improve integration of your digital assets through APIs and Mule applications that work with link:/mule-fundamentals/v/3.8/[Mule Runtime], MuleSoft's flagship integration platform.
 
 == Design and Manage APIs
 
@@ -15,21 +15,21 @@ Go to the link:/api-manager/[API Manager] and link:api-manager/designing-your-ap
 * link:/getting-started/build-a-hello-world-application[Build a Hello World Mule Application] using link:/anypoint-studio/v/6/index[Anypoint Studio]. Install the link:/anypoint-studio/v/6/setting-up-your-development-environment[Studio hardware and software requirements] to start developing with Mule.
 * link:/mule-user-guide/v/3.8/dataweave[DataWeave] - Weave data transformations into your Mule applications to quickly transform and map Mule message payloads to other data structures.
 * link:/mule-user-guide/v/3.8/anypoint-connectors[Anypoint Connectors] - MuleSoft and partner-supported connectors work out of the box to help you hook into SaaS applications like ServiceNow and Salesforce, or generic data structures like databases, files and object stores.
-* link:/getting-started/anypoint-exchange[Anypoint Exchange]
+* link:/getting-started/anypoint-exchange[Anypoint Exchange] - to install connectors or retrieve artifacts as templates toward your development goals
 
 
 == Deploy and Manage Mule Applications
 
 * link:/runtime-manager/cloudhub[Runtime Manager] - host and manage your applications from Runtime Manager. Deploy them to the cloud via https://docs.mulesoft.com/runtime-manager/cloudhub[CloudHub], on-premises, or using a link:/runtime-manager/managing-servers[hybrid] strategy.
 
-== Developer Resources
+== Developer Tools
 
-* link:/mule-fundamentals/v/3.8/anypoint-exchange[Anypoint Exchange] - access templates, connectors, API resources or publish your own.
+* link:/getting-started/anypoint-exchange[Anypoint Exchange] - access templates, connectors, API resources or publish your own.
 
-* link:/mule-user-guide/v/3.7/[Mule Runtime]
-* link:/anypoint-studio/v/5/index[Anypoint Studio]
+* link:/mule-user-guide/v/3.8/[Mule Runtime]
+* link:/anypoint-studio/v/6/index[Anypoint Studio]
 * link:/api-manager/[API Manager]
-* link:/runtime-manager/cloudhub[Runtime Manager] and more.
+* link:/runtime-manager/cloudhub[CloudHub] and more.
 
 Access link:/release-notes/[Release Notes] for the release history of any MuleSoft product.
 
