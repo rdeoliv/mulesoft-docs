@@ -27,7 +27,7 @@ image:mq-client-apps-in-nav.png[mq-client-apps-in-nav, width="177"].
 +
 . Click the blue plus circle:
 +
-image:mq-blue-plus-circle.png[Create client app circle button about two-thirds to the right below the task bar]
+image:mq-blue-plus-circle.png[mq-blue-plus-circle]
 +
 . Specify the name of the client application.
 +
@@ -151,8 +151,8 @@ value of `0`, this parameter does not appear in the XML flow.
 *Required:* No +
 *Default:* `10000` (10 seconds)
 |Threading Profile Settings +
- |Define threading profile behavior or
- use default worker threading profile. See link:/mule-user-guide/v/3.8/tuning-performance[Tuning Performance]. The threading profile options let you optimize connector performance for use with Anypoint MQ.
+|Define threading profile behavior or
+use default worker threading profile. See link:/mule-user-guide/v/3.8/tuning-performance[Tuning Performance]. The threading profile options let you optimize connector performance for use with Anypoint MQ.
 
 *Required:* No +
 *Default:* None
@@ -199,7 +199,10 @@ Possible values:
 
 *Required:* Yes +
 *Default:* None
-|Message ID |(Publish operation only) Optional ID of a message to publish or consume.
+|Message ID |(Publish operation only) Optional ID of a message to publish. For FIFO use,
+if you specify a custom Message ID and the ID is the same on multiple messages, the
+messages with the same Message ID are overwritten. Normally this field is not set
+and the message ID value is auto-generated.
 
 *Required:* No +
 *Default:* None
@@ -309,7 +312,7 @@ http://www.mulesoft.org/schema/mule/anypoint-mq http://www.mulesoft.org/schema/m
     <objectstore:config name="ObjectStore_Configuration" partition="employees" doc:name="ObjectStore: Configuration"/>
     <http:listener-config name="HTTP_Listener_Configuration" host="0.0.0.0" port="8081" doc:name="HTTP Listener Configuration"/>
     <anypoint-mq:config name="Anypoint_MQ_Configuration" doc:name="Anypoint MQ Configuration">
-        <anypoint-mq:provider url="https://mq-us-east-1.anypoint.mulesoft.com/api/v1" clientId="<ID>" clientSecret="<SECRET>"/>
+        <anypoint-mq:provider url="https://mq-us-west-1.anypoint.mulesoft.com/api/v1" clientId="<ID>" clientSecret="<SECRET>"/>
     </anypoint-mq:config>
     <flow name="objectstore-store-flow">
         <http:listener config-ref="HTTP_Listener_Configuration" path="/store" doc:name="HTTP"/>
@@ -582,7 +585,10 @@ Possible values:
     </anypoint-mq:consume>
 </flow>
 ----
-|messageId |(Publish operation only) Optional ID of a message to publish or consume.
+|messageId |(Publish operation only) Optional ID of a message to publish. For FIFO use,
+if you specify a Message ID and the ID is the same on multiple messages, the
+messages with the same Message ID are overwritten. Normally this field is not set
+and the message ID value is auto-generated.
 
 *Required:* No +
 *Default:* None +
