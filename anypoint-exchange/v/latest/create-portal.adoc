@@ -3,7 +3,6 @@
 
 ////
 Add an Asset - Use Type > Other to create a page of information. (Adding a page without adding an asset.)
-Use the Editor - Editing controls, and entering or modifying text using wysiwyg or Markdown syntax, as well as inserting a graphic, or video.
 Asset Tags - Describes tag feature.
 Publish - Publishing a page in Exchange.
 Share an Asset - Sharing an asset from Exchange with another user, that is, an Exchange viewer, contributor, or administrator.
@@ -11,8 +10,6 @@ Rate an Asset - Rating an asset from the star rating and comment. Also explains 
 ////
 
 == Add an Asset
-
-== Edit Asset Description
 
 == Asset Tags
 
