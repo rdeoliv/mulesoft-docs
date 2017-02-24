@@ -12,3 +12,22 @@ Rate an Asset - Rating an asset from the star rating and comment. Also explains 
 
 == Add an Asset
 
+== Edit Asset Description
+
+== Asset Tags
+
+== Publish
+
+== Share an Asset
+
+== Rate an Asset
+
+== See Also
+
+* link:/anypoint-exchange/[Anypoint Exchange]
+* link:/anypoint-exchange/access[Access Exchange]
+* link:/anypoint-exchange/consume[Consume from Exchange]
+* link:install-connector/install-connector[Install a Connector]
+* link:/anypoint-exchange/add-asset[Add Asset]
+* link:/anypoint-exchange/administer[Administer]
+
