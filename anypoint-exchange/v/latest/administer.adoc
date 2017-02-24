@@ -1,0 +1,6 @@
+= Administer Anypoint Exchange
+:keywords: exchange, admin, administer
+
+////
+To Administer Exchange - Configuring Anypoint Platform user roles for Exchange for viewer, contributor, or administrator.
+////

@@ -1,0 +1,7 @@
+= Anypoint Exchange
+:keywords: exchange, exchange2, anypoint exchange
+
+////
+Exchange2 brief description, public vs private, docs overview, related links
+About Exchange - Exchange concepts, glossary, and best practices.
+////

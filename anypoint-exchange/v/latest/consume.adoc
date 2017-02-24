@@ -1,0 +1,7 @@
+= Using Anypoint Exchange APIs, Examples, and Templates
+
+////
+Consume an API - To use an API in <Mozart and> Studio
+Open an Example - Working with Exchange examples
+Implement a Template - Working with Exchange templates
+////

@@ -1,0 +1,8 @@
+= Access Anypoint Exchange
+:keywords: exchange, access, anypoint exchange
+
+////
+From Anypoint Platform - 
+From Browser - 
+From Anypoint Studio - 
+////

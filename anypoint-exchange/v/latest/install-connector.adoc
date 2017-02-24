@@ -1,0 +1,6 @@
+= Install a Connector
+:keywords: install connector, connector, install, studio, exchange
+
+////
+Install a Connector - Using Exchange from Studio to install a connector.
+////

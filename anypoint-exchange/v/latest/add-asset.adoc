@@ -1,0 +1,10 @@
+= Add an Anypoint Exchange Asset
+
+////
+Upload a REST Asset - Uploading an OAS (aka Swagger) or RAML API specification.
+Upload a SOAP Asset - Uploading a WSDL for SOAP access.
+Upload a Connector Asset - Uploading a connector asset
+Add a New Version of an Asset
+Browse Across Different Asset Versions
+Upload a Custom Asset - Upload JARs, node.js, and other executables
+////
