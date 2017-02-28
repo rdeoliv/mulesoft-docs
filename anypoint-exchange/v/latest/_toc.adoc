@@ -3,7 +3,7 @@
 * link:/anypoint-exchange/[Anypoint Exchange]
 ** link:/anypoint-exchange/access[Access Exchange]
 ** link:/anypoint-exchange/consume[Consume from Exchange]
-** link:install-connector/install-connector[Install a Connector]
+** link:/anypoint-exchange/install-connector[Install a Connector]
 ** link:/anypoint-exchange/create-portal[Create or Maintain a Portal Page]
 ** link:/anypoint-exchange/editor[Exchange Editor]
 ** link:/anypoint-exchange/add-asset[Add Asset]
