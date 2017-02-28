@@ -3,8 +3,6 @@
 
 Anypoint Exchange provides a unified user interface and API for discovery and consumption of connectivity and API assets.
 
-== Why Use Exchange?
-
 You can use Exchange to:
 
 * *Increase productivity and accelerate onramp* for new users by building categories filled with crucial information. For example, MuleSoft published a category called “Getting Started”, which provide users with essential assets to become acquainted with Anypoint Platform.
@@ -13,13 +11,13 @@ You can use Exchange to:
 
 * *Share and build on best practices*. Users can adopt best practices by searching or browsing Exchange, and suggest enhancements as they improve their understanding of existing assets.
 
-== Types of Assets
+== Types of Exchange Assets
 
 Exchange provides assets for:
 
 * *Connectors* - Packaged connectivity to an endpoint developed and deployed on MuleSoft’s Anypoint Platform with third-party APIs and standard integration protocols. Anypoint Studio is preloaded with a large set of connectors, but the full listing can be found on the Exchange. View details on applications that provide connections between resources. To install connectors, open Exchange from within link:https://www.mulesoft.com/platform/studio[Anypoint Studio].
 
-* *Templates* - Packaged integration patterns that address common use cases and are built on best practices. Use case applications to which you add your information to complete a user case or solution.
+* *Templates* - Packaged integration patterns that address common use cases and are built on best practices. Use case applications to which you add your information to complete a user case or solution. For more information, see link:/anypoint-exchange/templates[Anypoint Exchange Templates].
 
 * *Examples* - Implementation projects that explain development elements within Anypoint Studio and how these can be leveraged to achieve specific API and integration objectives. Examples are applications that are ready to run and demonstrate a use case or solution.
 
@@ -35,6 +33,27 @@ Exchange provides the ability to discover public assets provided by MuleSoft in 
 
 You can search Anypoint Exchange using tags and keywords for a name, summary, description, and tags of the items. Each element is tagged with labels that refer to a version, the Mule Runtime versions it supports, etc. These are also organized by pattern so you can scan through only those that perform what you’re interested in.
 
+For an item:
+
+* Click *View details* to read a brief overview of the project and access more options.
+* Click *Download* to directly download the project or connector to your Studio workspace and open it in Studio.
+
+For APIs you can also view the API's link:/api-manager/engaging-users-of-your-api[API Portal.]
+
+Every piece of content, regardless of its type, has a rating associated to it. This rating is displayed next to the element once it has received two or more ratings.
+
+[NOTE]
+You can only submit a rating if you have entered  Exchange through Anypoint Studio. If you're rating a Connector, you also need to have it installed in Anypoint Studio in order to rate it.
+
+== Public Cloud versus Private Cloud
+
+Anypoint Exchange Private Cloud Edition (beta) enables companies to manage 
+Exchange from their site.
+For more information, see link:/release-notes/exchange-on-prem-release-notes[Anypoint Exchange Private Cloud Edition Release Notes].
+
+* Anypoint Exchange private cloud does not allow users to access the MuleSoft tenant available on the cloud, and thus is shipped with no default content.
+* Exchange Private Cloud is currently not accessible from Anypoint Studio.
+
 
 == See Also
 
@@ -43,3 +62,4 @@ You can search Anypoint Exchange using tags and keywords for a name, summary, de
 * link:/anypoint-exchange/install-connector[Install a Connector]
 * link:/anypoint-exchange/create-portal[Create Portal]
 * link:/anypoint-exchange/add-asset[Add Asset]
+
