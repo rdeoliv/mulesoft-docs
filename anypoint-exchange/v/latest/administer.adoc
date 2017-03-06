@@ -1,4 +1,4 @@
-= Administer Anypoint Exchange
+= To Administer Anypoint Exchange
 :keywords: exchange, admin, administer
 
 For a user to create, publish, update, or delete elements from an organization’s Exchange, a user must first be provisioned with the appropriate permissions. No user has permissions to submit or edit items by default, not even “Organization Administrators”.

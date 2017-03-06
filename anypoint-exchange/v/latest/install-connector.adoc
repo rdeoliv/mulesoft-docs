@@ -1,4 +1,4 @@
-= Install a Connector
+= To Install a Connector
 :keywords: install connector, connector, install, studio, exchange
 
 You can only install a connector by first starting Anypoint Studio and clicking the Exchange icon at the left on the Studio task bar. 

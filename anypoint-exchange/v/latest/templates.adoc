@@ -1,4 +1,4 @@
-= Anypoint Exchange Templates
+= To Use Anypoint Exchange Templates
 :keywords: exchange, exchange2, anypoint exchange, templates, salesforce
 
 Templates are projects that cover typical enterprise integration use cases. Find one that performs what you need, provide it user credentials, and it should be good to deploy! You can also customize or extend templates as needed.

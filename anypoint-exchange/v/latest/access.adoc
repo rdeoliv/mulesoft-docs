@@ -1,4 +1,4 @@
-= Access Anypoint Exchange
+= To Access Anypoint Exchange
 :keywords: exchange, access, anypoint exchange
 
 How you access Anypoint Exchange determines what features are available.

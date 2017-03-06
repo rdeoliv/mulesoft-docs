@@ -1,4 +1,4 @@
-= Add an Anypoint Exchange Asset
+= To Add an Anypoint Exchange Asset
 
 ////
 Upload a REST Asset - Uploading an OAS (aka Swagger) or RAML API specification.

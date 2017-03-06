@@ -1,4 +1,4 @@
-= Exchange Editor
+= To Use the Exchange Editor
 :keywords: exchange, editor, edit
 
 ////
